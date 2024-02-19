@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: Arial;
+}
+.cantainer{
+    width: 1405px;
+    min-height: 20px;
+    /* border: 3px solid; */
+    /* justify-content: center; */
+    margin: 0 auto;
+}
+.navbar-logo{
+    display: flex;
+    justify-content: space-between;
+    width: 1110px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.WEB{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.navbarlinks{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: Roboto;
+}
+.red{color: #EF4423;}
+.rasm{
+    width: 1110px;
+    margin: 0 auto;
+}
+.box div img{
+    padding-bottom: 0px;
+}
+.box div p{
+    padding-bottom: 0px;
+}
+.box{
+    width: 348px;
+    height: 380px;
+    /* justify-content: space-around; */
+    display: flex;
+    padding-bottom: 0px;
+}
+.px p{
+    margin: 5px;
+    margin-bottom: 0px;
+
+}
+.box div{
+    box-sizing: border-box;
+}
+.px16{
+    font-size: 16px;
+}
+.px19{
+    font-size: 19px;
+}
+.box-div1 p{
+    margin: 5px;
+}
+.box-div1{
+    background:  #B71C1C;
+}
+.box-div2{
+    background: #6A1B9A;
+}
+.box-div3{
+    background: #303F9F;
+}
+.box-div4{
+    background: #00695C;
+}
+.px22{
+    font-size: 22px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.box-oxiri{
+    display: flex;
+    width: 1405px;
+    height: 531px;
+    justify-content: space-between;
+}
+.px18{
+    font-size: 18px;
+    margin: 30px 30px 145px 31px;
+    width: 540px;
+    height: 398px;
+}
+.box-oxiri img{
+    margin-left: 145px;
+    
+}
+.lorem{
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-right: 145px;
+    margin-left: 30px;
+    text-align: left;
+    /* margin-bottom: 30px; */
+
+}
+.black{
+    width: 1405px;
+    padding-left: 145px;
+    padding-right: 145px;
+    background-color: #3A3838;
+    padding: 30px 0px;
+}
+footer{
+    background-color: #3A3838;
+    display: flex;
+    justify-content: center;
+    color: #EF4423;
+}
